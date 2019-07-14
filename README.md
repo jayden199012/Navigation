@@ -29,4 +29,5 @@ The task is episodic, and in order to solve the environment, your agent must get
 After you have installed the environment and dependencies:
   1. Use **Navigation.ipynb** to train the agent.
   2. Adjust the hyperparameters in **params.txt**
-Enjoy!
+
+Cheers!
